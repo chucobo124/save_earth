@@ -1,0 +1,504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sheets_number",
+				"sheets_number"
+			],
+			[
+				"purchase_sheet",
+				"purchase_sheet"
+			],
+			[
+				"product",
+				"product_details_relations"
+			],
+			[
+				"product_details",
+				"product_details"
+			],
+			[
+				"P",
+				"ProductDetails"
+			],
+			[
+				"purchase",
+				"purchase_volume"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"PurchaseSheets",
+				"purchase_sheets"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"produc",
+				"product_details_id"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"di",
+				"text-decoration"
+			],
+			[
+				"user",
+				"user_detail"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"get",
+				"getcwd"
+			],
+			[
+				"MATCH",
+				"preg_match"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"change",
+				"chcangeval"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/USER/Desktop/rails/mia/mia/config/application.yml",
+		"/C/Users/USER/Desktop/rails/mia/mia/Vagrantfile",
+		"/C/Users/USER/Desktop/rails/sunlight/db/migrate/20140712071317_create_product_details.rb",
+		"/C/Users/USER/Desktop/rails/sunlight/db/migrate/20140712071627_create_purchase_sheets.rb",
+		"/C/Users/USER/Desktop/rails/new_mia/mia/mia/db/migrate/20140701033334_create_purchase_sheets.rb",
+		"/C/Users/USER/Desktop/rails/new_mia/mia/mia/db/migrate/20140702091459_create_product_details.rb",
+		"/C/Users/USER/Desktop/rails/new_mia/mia/mia/db/migrate/20140701080424_add_purchase_sheets_number.rb",
+		"/C/Users/USER/Desktop/rails/sunlight/app/controllers/product_details_controller.rb",
+		"/C/Users/USER/Desktop/rails/sunlight/app/views/product_details/_search.html.haml",
+		"/C/Users/USER/Desktop/rails/sunlight/app/views/product_details/_menu.html.haml",
+		"/C/Users/USER/Desktop/rails/sunlight/app/views/product_details/_form.html.haml",
+		"/C/Users/USER/Desktop/rails/sunlight/config/routes.rb",
+		"/C/Users/USER/Desktop/rails/sunlight/app/controllers/purchase_sheets_controller.rb",
+		"/C/Users/USER/Desktop/rails/sunlight/app/views/purchase_sheets/_form.html.haml",
+		"/C/Users/USER/Desktop/rails/sunlight/app/views/purchase_sheets/_add_product_form.html.haml",
+		"/C/Users/USER/Desktop/rails/sunlight/app/views/purchase_sheets/new.html.haml",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/Rakefile",
+		"/C/Users/USER/Desktop/rails/sunlight/Rakefile",
+		"/C/Users/USER/Desktop/rails/sunlight/db/migrate/20140711082404_create_product_details.rb",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/db/migrate/20140605071051_create_product_details.rb",
+		"/C/Users/USER/Desktop/rails/sunlight/db/migrate/20140711082505_create_purchase_sheets.rb",
+		"/C/Users/USER/Desktop/rails/new_mia/mia/mia/app/controllers/product_details_controller.rb",
+		"/C/Users/USER/Desktop/rails/sunlight/Guardfile",
+		"/C/Users/USER/Desktop/rails/new_mia/mia/mia/Guardfile",
+		"/C/Users/USER/Desktop/rails/new_mia/mia/mia/Procfile",
+		"/C/Users/USER/Desktop/rails/new_mia/mia/mia/Rakefile",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/models/purchase_sheet.rb",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/models/product_detail.rb",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/models/purchase_sheet.rb",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/controllers/product_details_controller.rb",
+		"/C/Users/USER/Desktop/rails/mia/mia/Gemfile",
+		"/C/Users/USER/Desktop/rails/sunlight/Gemfile",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/Gemfile",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/views/product_details/_search.html.haml",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/Gemfile.lock",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/views/product_details/index.html.haml",
+		"/C/Users/USER/Desktop/mia/mia/config/locales/zh-TW.yml",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/config/locales/zh-TW.yml",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/config/routes.rb",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/views/layouts/application.html.erb",
+		"/C/Users/USER/Desktop/rails/new_mia/mia/mia/app/views/layouts/application.html.haml",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/views/layouts/application.html.haml",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/controllers/purchase_sheets_controller.rb",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/views/purchase_sheets/_add_product_form.html.haml",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/views/purchase_sheets/_form.html.haml",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/views/purchase_sheets/index.html.haml",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/models/product_details.rb",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/models/purchase_sheets.rb",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/views/relatives/_display_only.html.haml",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/views/relatives/_form.html.haml",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/controllers/relatives_controller.rb",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/views/relatives/_list.html.haml",
+		"/C/Users/USER/Desktop/rails/mia/mia/config/routes.rb",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/views/mia_grades/_search.html.haml",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/views/mia_grades/query.html.haml",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/controllers/people_controller.rb",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/controllers/monks_controller.rb",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/controllers/purchase_sheets_controller.rb",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/views/mia_grades/grade.html.haml",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/views/purchase_sheets/newproduct.html.haml",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/views/mia_grades/index.html.haml",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/views/mia_semesters/index.html.haml",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/views/mia_semesters/edit.html.haml",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/views/mia_semesters/_form.html.haml",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/views/mia_semesters/school.html.haml",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/controllers/mia_grades_controller.rb",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/views/mia_grades/_history.html.haml",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/views/devise/shared/_links.erb",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/views/product_details/new.html.haml",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/db/migrate/20140701033334_create_purchase_sheets.rb",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/db/migrate/20140610085653_create_purchase_sheets.rb",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/views/purchase_sheets/new.html.haml",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/db/migrate/20140701041844_add_purchase_relation.rb",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/views/product_details/edit.html.haml",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/views/product_details/_form.html.haml",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/views/product_details/show.html.haml",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/db/migrate/20140627091459_create_product_details.rb",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/views/product_details/newproduct.html.haml",
+		"/C/wamp/www/homework/index.html",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/views/product_details/modify.html.haml",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/app/controllers/product_detail_controller.rb",
+		"/C/Users/USER/Desktop/rails/sunlight/sunlight/db/migrate/20140627090232_create_product_details.rb",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/views/purchase_sheets/_form.html.haml",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/config/schedule.rb",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/db/migrate/20140626032241_add_purchase_sheet_number.rb",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/Gemfile",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/models/product_detail.rb",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/config/environments/production.rb",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/views/purchase_sheets/index.html.haml",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/views/devise/sessions/new.html.haml",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/controllers/home_controller.rb",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/views/devise/confirmations/new.html.erb",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/controllers/application_controller.rb",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/views/layouts/application.html.erb",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/controllers/product_details_controller.rb",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/views/layouts/_menu.html.haml",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/config/routes.rb",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/db/schema.rb",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/views/purchase_sheets/edit.html.haml",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/views/home/index.html.haml",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/views/devise/shared/_links.html.haml",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/views/product_details/index.html.haml",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/views/product_details/_form.html.haml",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/views/mia_students/_relations.html.haml",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/views/purchase_sheets/show.html.haml",
+		"/C/Users/USER/AppData/Local/Temp/WPDNSE/{00000ECB-0001-0002-0000-000000000000}/jsslider.js",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/views/product_details/_menu.html.haml",
+		"/C/wamp/www/homework/css/style.css",
+		"/C/wamp/www/homework/about.html",
+		"/C/wamp/www/homework/product.html",
+		"/C/wamp/www/homework/contect.html",
+		"/C/wamp/www/homework/slider/slider.html",
+		"/C/wamp/www/homework/slider/js/jsslider.js",
+		"/C/wamp/www/homework/slider/slidercss.css",
+		"/C/wamp/www/homework/slider/js/jquery-1.8.2.min.js",
+		"/C/wamp/www/homework/hide.js",
+		"/C/wamp/www/homework/md_stylechanger.js",
+		"/C/wamp/www(GKB)/list_network.html",
+		"/C/wamp/www/index.html",
+		"/C/wamp/www(GKB)/index.html",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/views/purchase_sheets/_search.html.haml",
+		"/C/Users/USER/Desktop/rails/mia/mia/app/controllers/versions_controller.rb",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/db/migrate/20140616090315_add_product_details_id_to_purchase_sheets.rb",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/views/purchase_sheets/search.html.haml",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/views/purchase_sheets/search.haml",
+		"/C/Users/USER/Desktop/rails/CLdatabase/CLdatabase/app/views/purchase_sheets/new.html.haml",
+		"/C/wamp/www/display.html",
+		"/C/wamp/www/setup/audiovideo.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"search",
+			"product_detail-form",
+			"product_detail-add-link",
+			"purchase_sheets_number",
+			"end",
+			"id",
+			"product_details_index_path",
+			"max_code",
+			"purchase_number",
+			"w",
+			"? ",
+			"nils",
+			"config.whiny_nils = true",
+			"displayqr",
+			"error",
+			"edit",
+			"msg",
+			"link_to",
+			"student",
+			"end",
+			"search",
+			"product_details_id",
+			"search",
+			"Enable Motion Detection",
+			"params",
+			"table",
+			"div",
+			"never",
+			"\":\"#",
+			"never",
+			"4D5B63",
+			"');",
+			"html",
+			"200px",
+			"Time",
+			"Name",
+			"name",
+			"Video",
+			"ajaxImg",
+			"ajaxMask",
+			"string email required",
+			"delete",
+			"DS",
+			"require 'simple-spreadsheet'",
+			"XLSS",
+			"xlss",
+			"xls",
+			"xlss",
+			"image",
+			";\n",
+			"content",
+			"page-header",
+			"css",
+			"header",
+			".site-title",
+			"header-inner clearfix",
+			"catCounter",
+			"ext_class_categories",
+			"class_cssArrows",
+			"SESSION['files']",
+			"uploadsystem",
+			"0px",
+			"drupal_http_request",
+			"$result",
+			"my_table",
+			" ,",
+			"import-#%h1 Editing mia_student",
+			"MiaStudent.find(1).",
+			"pages",
+			"       \n",
+			"\"#{@mia_student.person.full_name_ch.to_s}\"",
+			"@MiaStudent_pdf",
+			"MiaStudent.find(params[:id])",
+			":id",
+			"1",
+			"passport",
+			"MiaStudent",
+			"SUPERUSER",
+			"          =",
+			"\n		this is e ",
+			"}\n",
+			"jcryption",
+			"jCyption",
+			"cell",
+			"input#Image5",
+			"checkForm",
+			"checkform",
+			"normal",
+			"png",
+			";\n",
+			"normal",
+			"JCryption",
+			"normal",
+			"\\normal",
+			"id=normal",
+			"loading",
+			"loading\\",
+			"loading",
+			"load",
+			"logdding",
+			"error",
+			"generateKeypair",
+			";\n",
+			"span",
+			"name",
+			"id",
+			"HR",
+			"SubmitForm",
+			"document.login",
+			"document",
+			"WORKROOT",
+			"';\n",
+			");\n",
+			"WORK_ROOT",
+			"DIR_ROOT",
+			"defineRoo",
+			";\n",
+			"color:silver;",
+			"sliver",
+			"; ",
+			"SeccessContextgreen",
+			"id",
+			";\n",
+			"oversrc",
+			"div",
+			";\n",
+			"ul",
+			"li"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"save_trees",
+			"id.",
+			"MiaStudent.find(1).person.full_name_ch.to_s",
+			"@mia_student",
+			"@MiaStudent_pdf",
+			"params[:id]",
+			":id",
+			"div",
+			"class",
+			"tr",
+			"th",
+			"class"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 178.0
+	},
+	"output.sftp":
+	{
+		"height": 154.0
+	},
+	"replace":
+	{
+		"height": 67.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"CLdatabase/CLdatabase/app/models/purchase_sheet.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/USER/Desktop/github and student data.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true
+}

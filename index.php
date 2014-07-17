@@ -3,7 +3,7 @@
   <head>
     <?php
     session_start();
-    include("Language.php");
+    include("controller/Language.php");
     $lang = new Language();
     $lang->load("about");
     echo "<a href='index.php?lang=zh-TW'>Chinese</a> | <a href='index.php?lang=en-US'>English</a><br />";
@@ -13,9 +13,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bootstrap 101 Template</title>
 
+
     <!-- Bootstrap -->
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
+    <link href="css/style.css" rel="stylesheet">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -30,6 +31,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="bootstrap/js/style_motion.js"></script>
     <div id="context">
       <?php
         $menu = (isset($_GET['menu'])) ? strtolower($_GET['menu']) : "";
@@ -39,6 +41,14 @@
           $menu = str_replace('.php', '', $menu);
           $menu .= '.php';
           include( $menu );
+        }
+        $page = (isset($_GET['page'])) ? strtolower($_GET['page']) : "";
+        if ($page == ""){
+        }
+        else{
+          $page = str_replace('.php', '', $page);
+          $page .= '.php';
+          include( $page );
         }
       ?>
     <div>

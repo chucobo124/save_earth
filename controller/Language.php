@@ -59,8 +59,8 @@ class Language
         }
 
         // Determine where the language file is and load it
-        if (file_exists('language/'.$idiom.'/'.$langfile)) {
-            include('language/'.$idiom.'/'.$langfile);
+        if (file_exists('Language/'.$idiom.'/'.$langfile)) {
+            include('Language/'.$idiom.'/'.$langfile);
         }
 
         if ( ! isset($lang)) {

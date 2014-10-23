@@ -2,6 +2,8 @@
   $lang['index'] = "index";
   $lang['add_new_menu'] = "Add New Menu";
   $lang['add_new_article'] = "Add New Article";
+  $lang['menu_name'] = "Menu Name";
+  $lang['menu_class'] = "Menu Class";
   $lang['Category'] = "Category";
   $lang['Title'] = "Title";
   $lang['Title2'] = "Special Title";

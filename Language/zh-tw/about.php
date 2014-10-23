@@ -1,6 +1,8 @@
 <?php
   $lang['index'] = "首頁";
   $lang['add_new_menu'] = "新增選單";
+  $lang['menu_name']="選單名稱";
+  $lang['menu_class']= "選單階層";
   $lang['add_new_article'] = "新增文章";
   $lang['Category'] = "分類";
   $lang['Title'] = "標題";
